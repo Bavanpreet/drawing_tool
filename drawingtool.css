@@ -6,10 +6,10 @@
             font-family: monospace;
         }
         .main {
-            width: 1400px;
+            wIdth: 1400px;
     height: 160px;
     position: fixed;
-    top: 2%;
+    top: 3%;
     left: 50%;
     right: 15%;
     transform: translateX(-50%);
